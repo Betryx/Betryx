@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Betryx.<br>I am a back-end developer from Bulgaria who loves to learn new <br>technologies and work with new stuff every day.<br>I like building projects which unfortunately i forget to upload to github.<br>I have strong work ethics and discipline and i have no problem facing<br>new problems and chalenges as a developer.Some developers say<br>that they dont like the process of working but the end result.<br>well i like both and i espetialy love the process of making something<br>useful and impactful.<br>Thats for me now :D
+Hi, I am Betryx.<br>I am a back-end developer from Bulgaria who loves to learn new <br>technologies and work with new stuff every day.<br>I like building projects which unfortunately i forget to upload to github.<br>I have strong work ethics and discipline and i have no problem facing<br>new problems and chalenges as a developer.Some developers say<br>that they dont like the process of working but the end result.<br>well i like both and i espetialy love the process of learning new technologies and making things that are <br>useful and impactful.<br>
 
 
 # 💻 Tech Stack:
